@@ -30,6 +30,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import assets from "./img/vicc.jpg";
 export {
   logo,
   backend,
