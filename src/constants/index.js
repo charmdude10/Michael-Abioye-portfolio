@@ -28,7 +28,6 @@ import vicc from "../assets/img/vicc.jpg";
 import olalekan from "../assets/img/olalekan.jpg";
 import lizzy from "../assets/img/lizzy.jpg";
 
-
 export const navLinks = [
   {
     id: "about",
@@ -181,7 +180,6 @@ const testimonials = [
     // designation: "CFO",
     // company: "Acme Co",
     image: vicc,
-    
   },
   {
     testimonial:
@@ -189,7 +187,7 @@ const testimonials = [
     name: "Olalekn Rotimi",
     // designation: "COO",
     // company: "DEF Corp",
-    
+
     image: olalekan,
   },
   {
